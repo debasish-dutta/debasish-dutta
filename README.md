@@ -1,5 +1,7 @@
 ### Hi there, I'm Debasish - aka ddmasterdon 👋
 
+---
+
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning DS and Machine Learning
@@ -20,10 +22,7 @@
 [<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
----
 
-<br />
 
 ### Languages and Tools:
 
@@ -32,12 +31,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 ---
-<br />
+
+
 
 ![Debasish's github stats](https://github-readme-stats.vercel.app/api?username=ddmasterdon&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
 
----
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmasterdon&layout=compact&hide=php)
 
 
