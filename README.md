@@ -39,13 +39,13 @@
 
 
 
-![Debasish's github stats](https://github-readme-stats.vercel.app/api?username=ddmasterdon&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
+![Debasish's github stats](https://github-readme-stats-jlzcv8i2n.vercel.app/api?username=ddmasterdon&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmasterdon&layout=compact&hide=php)
+![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=ddmasterdon&layout=compact&hide=php)
 
 
 [twitter]: https://twitter.com/ddmasterdon
