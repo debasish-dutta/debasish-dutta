@@ -19,10 +19,10 @@
 
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
 <!---[<img align="left" alt="ddmasterdon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--->
-[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
+[<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
+[<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
+[<img align="left" alt="ddmasterdon | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" target="_blank" />][kaggle]
 
 <br />
 
@@ -53,7 +53,7 @@
 
 ![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=ddmasterdon&layout=compact&hide=php)
 
-
+[Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
 [youtube]: https://youtube.com/ddmasterdon
 [instagram]: https://instagram.com/ddmasterdon
