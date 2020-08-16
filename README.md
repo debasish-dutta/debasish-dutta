@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Data Science
-- ⚡ I'm skilled and competent in Machine Learning. 
+- ⚡ I'm skilled and competent in Data analytics and Machine Learning. 
 - 🌱 I’m currently learning Deep Learning.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <!---- 👯 I’m looking to collaborate on ...
