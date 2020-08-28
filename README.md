@@ -46,7 +46,7 @@
 
 
 
-![Debasish's github stats](https://github-readme-stats-jlzcv8i2n.vercel.app/api?username=debasish0dutta&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
+![Debasish's github stats](https://github-readme-stats-jlzcv8i2n.vercel.app/api?username=debasish0dutta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
