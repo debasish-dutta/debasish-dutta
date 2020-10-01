@@ -52,7 +52,7 @@
 
 
 
-![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=debasish0dutta&layout=compact&hide=php)
+![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=debasish-dutta&layout=compact&hide=php)
 
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
