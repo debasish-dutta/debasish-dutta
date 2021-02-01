@@ -3,9 +3,9 @@
 ---
 
 
-- 🔭 I’m currently working on Data Science
-- ⚡ I'm skilled and competent in Data analytics and Machine Learning. 
-- 🌱 I’m currently learning Deep Learning.
+- 🔭 I’m currently working on Embedded Systems.
+- ⚡ I'm skilled and competent in Machine Learning and Deep Learning. 
+- 🌱 I’m currently learning Advanced Deep Learning techniques.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <!---- 👯 I’m looking to collaborate on ...
 <!---- 🤔 I’m looking for help with ...
