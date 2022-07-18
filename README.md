@@ -3,10 +3,10 @@
 ---
 
 
-- 🔭 I’m currently working on Embedded Systems.
-- ⚡ I'm skilled and competent in Machine Learning and Deep Learning. 
-- 🌱 I’m currently learning Advanced Deep Learning techniques.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working to develop my skills in C & C++.
+- ⚡ I'm have proficiency in Machine Learning and Deep Learning. 
+- 🌱 I’m currently learning Intermediate level DSA techniques.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <!---- 👯 I’m looking to collaborate on ...
 <!---- 🤔 I’m looking for help with ...
 <!---- 💬 Ask me about ...
@@ -47,7 +47,7 @@
 ---
 
 
-
+<!---
 ![Debasish's github stats](https://github-readme-stats-jlzcv8i2n.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
 
 
@@ -55,7 +55,7 @@
 
 
 ![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=debasish-dutta&layout=compact&hide=php)
-
+--->
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
 [youtube]: https://youtube.com/ddmasterdon
