@@ -47,15 +47,19 @@
 ---
 
 
+
+![Debasish's github stats](https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=cobalt)
+
+
+
+
+
+![Top Langs](https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php)
+
 <!---
-![Debasish's github stats](https://github-readme-stats-jlzcv8i2n.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
-
-
-
-
-
-![Top Langs](https://github-readme-stats-jlzcv8i2n.vercel.app/api/top-langs/?username=debasish-dutta&layout=compact&hide=php)
+[![ddmasterdon's wakatime stats](https://github-readme-stats3dmvtnh4z-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact))](https://github.com/debasish-dutta/github-readme-stats)
 --->
+
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
 [youtube]: https://youtube.com/ddmasterdon
