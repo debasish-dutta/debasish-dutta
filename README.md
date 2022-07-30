@@ -1,7 +1,8 @@
 ###  Ohaiyoo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-_I'm Debasish - aka ddmasterdon_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=1200&color=12D7F7&lines=Eat;Code;Sleep;Repeat&width=99&height=20&vCenter=true)](https://git.io/typing-svg)
 
+#### _I'm Debasish - aka ddmasterdon_
 
 ### _🕵️‍♂️ More About Me_
 - 🔭 I’m currently working to develop my skills in C & C++.
@@ -27,13 +28,13 @@ _I'm Debasish - aka ddmasterdon_
 <!-- ![Twitter](https://img.shields.io/twitter/follow/ddmasterdon?label=Follow&style=social) --->
 [<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" target="_blank"/>][linkedin]
 <!-- [<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" target="_blank"/>][instagram] --->
-[<img align="left" alt="ddmasterdon | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" target="_blank" />][kaggle]
 [<img align="left" alt="ddmasterdon | Github" width="89px" src="https://img.shields.io/github/followers/debasish-dutta?label=Follow&style=social" target="_blank" />][github]
 
 <br />
 
 ### ⚔️ My Coding Profiles:
 
+[<img align="left" alt="ddmasterdon | Kaggle" width="63px" src="https://www.kaggle.com/static/images/site-logo.svg" target="_blank" />][kaggle]
 [<img align="left" alt="ddmasterdon | LeetCode" width="99px" src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" target="_blank"/>][leetCode]
 [<img align="left" alt="ddmasterdon | HackerRank" width="99px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" target="_blank"/>][hackerRank]
 [<img align="left" alt="ddmasterdon | CodeChef" width="99px" src="https://cdn.codechef.com/images/cc-logo.svg"/>][codeChef]
@@ -54,11 +55,12 @@ _I'm Debasish - aka ddmasterdon_
 ### ⚙️ Os and Editors:
 
 <img align="left" alt="macOs" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/6427eebb78471a053028605142d645ce_low_res_M1_Mac.png" />
-<img align="left" alt="Pi" width="40pc" src="https://media.macosicons.com/parse/files/macOSicons/f88326a668d959046a161ab54890fd30_low_res_Raspberry_Pi_Imager.png" />
+<img align="left" alt="linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" />
+<img align="left" alt="Pi" padding-right="40px" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/f88326a668d959046a161ab54890fd30_low_res_Raspberry_Pi_Imager.png" />
 
-<img align="left" alt="xCode" width="35px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
+<img align="left" alt="xCode" width="40px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
 <img align="left" alt="nVim" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/b70b9754110472322ea6611c6b340ab0_low_res_Neovim__dark_.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 
 ### 🧰 Tools and Frameworks:
@@ -79,13 +81,14 @@ _I'm Debasish - aka ddmasterdon_
 
 <br>
 
-![Debasish's github stats](https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=cobalt)
+<div> 
+<img align="" alt="Stats" src="https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=cobalt" />
+<img align="right" alt="languages" src="https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
+</div>
 
+---
 
-
-
-
-![Top Langs](https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php)
+<a align="left" href="https://www.buymeacoffee.com/ddmasterdon" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <!---
 [![ddmasterdon's wakatime stats](https://github-readme-stats3dmvtnh4z-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact))](https://github.com/debasish-dutta/github-readme-stats)
