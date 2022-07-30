@@ -1,13 +1,15 @@
-### Hi there, I'm Debasish - aka ddmasterdon 👋
+###  Ohaiyoo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
----
+_I'm Debasish - aka ddmasterdon_
 
 
+### _🕵️‍♂️ More About Me_
 - 🔭 I’m currently working to develop my skills in C & C++.
-- ⚡ I'm have proficiency in Machine Learning and Deep Learning. 
+- ⚡ I'm currently looking to go into Computer Science Research. 
+- 🦖 I'm also adept in embedded systems as well as Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Intermediate level DSA techniques.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-<!---- 👯 I’m looking to collaborate on ...
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 👯 I’m looking to collaborate on any Python or C++ projects.
 <!---- 🤔 I’m looking for help with ...
 <!---- 💬 Ask me about ...
 <!---- 📫 How to reach me: ...
@@ -16,29 +18,56 @@
 
 ---
 
-### Connect with me:
+### 🫰🏻 Connect with me: 
 
-<!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
+<!---[<img align="left" alt="" width="22px" src="" />][website]--->
 <!---[<img align="left" alt="ddmasterdon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--->
-[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter] 
+<a href="mailto:ddmasterdon@gmail.com"> <img align="left" alt="ddmasterdon | Gmail" width="22px" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png"/></a>
+[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" target="_blank"/>][twitter] 
 <!-- ![Twitter](https://img.shields.io/twitter/follow/ddmasterdon?label=Follow&style=social) --->
-[<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
-[<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
-[<img align="left" alt="ddmasterdon | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" target="_blank" />][kaggle]
-![Github followers](https://img.shields.io/github/followers/debasish-dutta?label=Follow&style=social)
+[<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" target="_blank"/>][linkedin]
+<!-- [<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" target="_blank"/>][instagram] --->
+[<img align="left" alt="ddmasterdon | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-256.png" target="_blank" />][kaggle]
+[<img align="left" alt="ddmasterdon | Github" width="89px" src="https://img.shields.io/github/followers/debasish-dutta?label=Follow&style=social" target="_blank" />][github]
 
 <br />
 
-### Languages and Tools:
+### ⚔️ My Coding Profiles:
 
+[<img align="left" alt="ddmasterdon | LeetCode" width="99px" src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" target="_blank"/>][leetCode]
+[<img align="left" alt="ddmasterdon | HackerRank" width="99px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" target="_blank"/>][hackerRank]
+[<img align="left" alt="ddmasterdon | CodeChef" width="99px" src="https://cdn.codechef.com/images/cc-logo.svg"/>][codeChef]
+[<img align="left" alt="ddmasterdon | ProjectEuler" width="220px" src="https://projecteuler.net/profile/ddmasterdon.png"/>][projectEuler]
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+---
+<br />
+
+### 🧮 Languages:
+
+<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br />
+
+### ⚙️ Os and Editors:
+
+<img align="left" alt="macOs" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/6427eebb78471a053028605142d645ce_low_res_M1_Mac.png" />
+<img align="left" alt="Pi" width="40pc" src="https://media.macosicons.com/parse/files/macOSicons/f88326a668d959046a161ab54890fd30_low_res_Raspberry_Pi_Imager.png" />
+
+<img align="left" alt="xCode" width="35px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
+<img align="left" alt="nVim" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/b70b9754110472322ea6611c6b340ab0_low_res_Neovim__dark_.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br />
+
+### 🧰 Tools and Frameworks:
+
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Sckit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4" />
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -46,7 +75,9 @@
 
 ---
 
+### _:octocat: GitHub Stats:_
 
+<br>
 
 ![Debasish's github stats](https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=cobalt)
 
@@ -59,9 +90,13 @@
 <!---
 [![ddmasterdon's wakatime stats](https://github-readme-stats3dmvtnh4z-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact))](https://github.com/debasish-dutta/github-readme-stats)
 --->
-
+[Github]: https://github.com/debasish-dutta
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
 [youtube]: https://youtube.com/ddmasterdon
 [instagram]: https://instagram.com/ddmasterdon
 [linkedin]: https://linkedin.com/in/ddmasterdon
+[leetCode]: https://leetcode.com/ddmasterdon/
+[hackerRank]: https://www.hackerrank.com/ddmasterdon
+[projectEuler]: https://projecteuler.net/
+[codeChef]: https://www.codechef.com/users/ddmasterdon
