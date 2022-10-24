@@ -82,17 +82,18 @@
 <br>
 
 <div> 
-<img align="" alt="Stats" src="https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api?username=debasish-dutta&hide=contribs&count_private=true&show_icons=true&theme=cobalt" />
-<img align="right" alt="languages" src="https://github-readme-stats-3dmvtnh4z-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
+<img align="" alt="Stats" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" />
+<img align="right" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
 </div>
+
+[![ddmasterdon's wakatime stats](http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula)](https://wakatime.com/@ddmasterdon)
 
 ---
 
 <a align="left" href="https://www.buymeacoffee.com/ddmasterdon" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<!---
-[![ddmasterdon's wakatime stats](https://github-readme-stats3dmvtnh4z-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact))](https://github.com/debasish-dutta/github-readme-stats)
---->
+
+
 [Github]: https://github.com/debasish-dutta
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
