@@ -52,7 +52,7 @@
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,py,js)](https://skillicons.dev)
+![My Languages](https://skillicons.dev/icons?i=c,cpp,py,js)
 <br />
 
 ### ⚙️ Os and Editors:
@@ -76,7 +76,7 @@
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-[![My Tools](https://skillicons.dev/icons?i=git,vim,bash,cmake,md,bots,html,css,latex,nextjs,graphql,tailwind,mongodb,gatsby,postgres,flask,tensorflow,pytorch,ps,arduino&perline=10)](https://skillicons.dev)
+![My Tools](https://skillicons.dev/icons?i=git,vim,bash,cmake,md,bots,html,css,latex,nextjs,graphql,tailwind,mongodb,flask,gatsby,postgres,tensorflow,pytorch,ps,arduino&perline=10)
 <br />
 
 ---
