@@ -104,7 +104,7 @@
 [codepen]: https://codepen.io/ddmasterdon
 [youtube]: https://youtube.com/ddmasterdon
 [instagram]: https://instagram.com/ddmasterdon
-[linkedin]: https://linkedin.com/in/ddmasterdon
+[linkedin]: https://linkedin.com/in/debasish-
 [leetCode]: https://leetcode.com/ddmasterdon/
 [hackerRank]: https://www.hackerrank.com/ddmasterdon
 [projectEuler]: https://projecteuler.net/
