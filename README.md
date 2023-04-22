@@ -23,8 +23,7 @@
 
 ### 🫰🏻 Connect with me: 
 
-<!---[<img align="left" alt="" width="22px" src="" />][website]--->
-<!---[<img align="left" alt="ddmasterdon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--->
+[<img align="left" alt="ddmasterdon | Website" width="22px" src="https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-512.png" />][website]
 <a href="mailto:ddmasterdon@gmail.com"> <img align="left" alt="ddmasterdon | Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"/></a>
 [<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" target="_blank"/>][twitter] 
 <!-- ![Twitter](https://img.shields.io/twitter/follow/ddmasterdon?label=Follow&style=social) --->
@@ -100,7 +99,7 @@
 <a align="left" href="https://www.buymeacoffee.com/ddmasterdon" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-
+[website]: https://debasishdutta.is-a.dev/
 [Github]: https://github.com/debasish-dutta
 [Kaggle]: https://www.kaggle.com/ddmasterdon
 [twitter]: https://twitter.com/ddmasterdon
