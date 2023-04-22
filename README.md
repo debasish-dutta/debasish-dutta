@@ -4,6 +4,8 @@
 
 #### _I'm Debasish - aka ddmasterdon_
 
+<img align="center" alt="Profile summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasish-dutta&theme=blueberry" />
+
 ### _🕵️‍♂️ More About Me_
 - 🔭 I’m currently working on building a compiler in C/C++.
 - ⚡ I'm currently looking to go into Computer Science Research. 
@@ -88,6 +90,7 @@
 <div> 
 <img align="" alt="Stats" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" />
 <img align="right" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
+<!-- <img align="right" alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8" /> -->
 </div>
 
 [![ddmasterdon's wakatime stats](http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula)](https://wakatime.com/@ddmasterdon)
