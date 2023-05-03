@@ -92,7 +92,7 @@
 <!-- <img align="right" alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8" /> -->
 </div>
 
-[![ddmasterdon's wakatime stats](http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula)](https://wakatime.com/@ddmasterdon)
+[![ddmasterdon's wakatime stats](http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time)](https://wakatime.com/@ddmasterdon)
 
 ---
 
