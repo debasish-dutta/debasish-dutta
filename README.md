@@ -2,9 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=1200&color=12D7F7&lines=Eat;Sleep;Code;Anime;Repeat&width=99&height=20&vCenter=true)](https://git.io/typing-svg)
 
-#### _I'm Debasish - aka ddmasterdon_
+## _I'm Debasish - aka ddmasterdon_
 
-<img align="center" alt="Profile summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasish-dutta&theme=blueberry" />
+
+<p> 
+  <img align="" alt="Profile summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasish-dutta&theme=blueberry" />
+  <img align="right" alt="Profile gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU1MmIxMjUxMzg3NGQ3ZDdiZjhiODU0YzNjMDkyMmJhN2Y4NDgwZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KGhpQ5NMoWKQurlHwI/giphy.gif" />
+</p>
+
+<!-- <iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p> -->
 
 ### _🕵️‍♂️ More About Me_
 - 🔭 I’m currently working on building a compiler in C/C++.
@@ -34,6 +40,7 @@
 
 
 <br />
+<br />
 
 ### ⚔️ My Coding Profiles:
 
@@ -43,6 +50,9 @@
 [<img align="left" alt="ddmasterdon | CodeChef" width="99px" src="https://cdn.codechef.com/images/cc-logo.svg"/>][codeChef]
 [<img align="left" alt="ddmasterdon | ProjectEuler" width="220px" src="https://projecteuler.net/profile/ddmasterdon.png"/>][projectEuler]
 
+<br />
+<br />
+<br />
 <br />
 
 ---
@@ -93,11 +103,9 @@
  <br />
  <p align="center">
   <a href="https://github.com/abhinandanraj">
-<!--    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true"> -->
 <img align="" alt="Stats" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" />
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
-<!--     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" /> -->
 <img align="right" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
   </a>
  </p>
@@ -107,16 +115,25 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=debasish-dutta&column=8&theme=darkhub"/>
+   <img width="800" align="center" src="https://github-profile-trophy.vercel.app/?username=debasish-dutta&theme=chalk&no-bg=true&rank=-C"/>
   </a>
  </p>
 </details>
   <details>
- <summary>🏆 <b>My Wakatime Stats</b></summary>
+ <summary>⏳ <b>My Wakatime Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://wakatime.com/@ddmasterdon">
-   <img width=500 src="http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time"/>
+   <img align="center" width="" src="http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time"/>
+  </a>
+ </p>
+</details>
+   <details>
+ <summary>📈 <b>My Contribution Graph</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://wakatime.com/@ddmasterdon">
+   <img width="" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10"/>
   </a>
  </p>
 </details>
