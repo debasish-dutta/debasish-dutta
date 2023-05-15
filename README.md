@@ -7,7 +7,7 @@
 
 <p> 
   <img align="" alt="Profile summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasish-dutta&theme=blueberry" />
-  <img align="right" alt="Profile gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU1MmIxMjUxMzg3NGQ3ZDdiZjhiODU0YzNjMDkyMmJhN2Y4NDgwZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KGhpQ5NMoWKQurlHwI/giphy.gif" />
+<!--   <img align="right" alt="Profile gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU1MmIxMjUxMzg3NGQ3ZDdiZjhiODU0YzNjMDkyMmJhN2Y4NDgwZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KGhpQ5NMoWKQurlHwI/giphy.gif" /> -->
 </p>
 
 <!-- <iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p> -->
