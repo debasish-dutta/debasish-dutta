@@ -146,7 +146,7 @@
 <!-- [![ddmasterdon's wakatime stats](http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time)](https://wakatime.com/@ddmasterdon) -->
 
 ---
-
+<img src="https://wakatime.com/share/@ddmasterdon/7298dde4-3a97-4215-8f72-d45c3b46500b.svg"/>
 <a align="left" href="https://www.buymeacoffee.com/ddmasterdon" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
