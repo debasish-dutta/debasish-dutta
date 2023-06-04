@@ -68,13 +68,12 @@
 
 ### ⚙️ Os and Editors:
 
-<img align="left" alt="macOs" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/6427eebb78471a053028605142d645ce_low_res_M1_Mac.png" />
-<img align="left" alt="linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" />
-<img align="left" alt="Pi" padding-right="40px" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/f88326a668d959046a161ab54890fd30_low_res_Raspberry_Pi_Imager.png" />
-
-<img align="left" alt="xCode" width="40px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
-<img align="left" alt="nVim" width="40px" src="https://media.macosicons.com/parse/files/macOSicons/b70b9754110472322ea6611c6b340ab0_low_res_Neovim__dark_.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="macOs" width="40px" src="assets/icons/m1Mac.png" />
+<img align="left" alt="linux" width="30px" src="assets/icons/Tux.png" />
+<img align="left" alt="Pi" padding-right="40px" width="40px" src="assets/icons/RPi.png" />
+<img align="left" alt="xCode" width="40px" src="assets/icons/xcode.png" />
+<img align="left" alt="nVim" width="40px" src="assets/icons/nvim.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="assets/icons/vsc.png" />
 
 <br />
 
