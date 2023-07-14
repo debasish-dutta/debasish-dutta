@@ -123,7 +123,7 @@
  <br />
  <p align="center">
   <a href="https://wakatime.com/@ddmasterdon">
-   <img align="center" width="" src="http://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time"/>
+   <img align="center" width="" src="https://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time"/>
     <br />
     <img align="center" src="https://wakatime.com/share/@ddmasterdon/7298dde4-3a97-4215-8f72-d45c3b46500b.svg"/>
   </a>
