@@ -98,7 +98,7 @@
 <div> 
   
   <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
+  <summary>📊 <b>My Github Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://github.com/abhinandanraj">
