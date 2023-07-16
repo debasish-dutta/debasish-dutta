@@ -101,41 +101,55 @@
   <summary>📊 <b>My Github Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
+<!--  <a href="https://github.com/abhinandanraj">
 <img align="" alt="Stats" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" />
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
 <img align="right" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
   </a>
- </p>
-</details>
+ </p> -->
+
+|                                                         📃                                                                                              |                                                                       🖋️                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img alt="Stats" height="200px" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" /> | <img height="200px" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" /> |
+
+</p>
+  </details>
   <details>
  <summary>🏆 <b>My Github Profile Trophies</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img width="800" align="center" src="https://github-profile-trophy.vercel.app/?username=debasish-dutta&theme=chalk&no-bg=true&rank=-C"/>
-  </a>
  </p>
 </details>
   <details>
- <summary>⏳ <b>My Wakatime Stats</b></summary>
+ <summary>⏳ <b>My Wakatime  <a href="https://wakatime.com/@ddmasterdon">Stats</a> </b></summary>
  <br />
- <p align="center">
-  <a href="https://wakatime.com/@ddmasterdon">
+<p align="center">
+<!---
    <img align="center" width="" src="https://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time"/>
     <br />
     <img align="center" src="https://wakatime.com/share/@ddmasterdon/7298dde4-3a97-4215-8f72-d45c3b46500b.svg"/>
-  </a>
- </p>
+  
+ </p> -->
+    
+| 📃 | 🖋 |
+| :---: | :---: |
+| <img alt="Wakatime Stats" height="100%" width="50%" src="https://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time" /> | <img alt="wt editors" height="100%" width="50%" src="https://wakatime.com/share/@ddmasterdon/5b28b5ee-03ea-4f20-93fc-b3d4881e4989.svg" /> |
+| Weekly Contribution Graph | Hourly Contribution |
+| <img height="100%" width="50%" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10"/> | <img height="100%" width="50%" alt="wt editors" src="https://wakatime.com/share/@ddmasterdon/5b28b5ee-03ea-4f20-93fc-b3d4881e4989.svg" /> |
+| Hourly Contribution | Editors used over the past year | 
+| <img height="100%" width="50%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /> | <img height="100%" width="50%" alt="wt editors" src="https://wakatime.com/share/@ddmasterdon/5b28b5ee-03ea-4f20-93fc-b3d4881e4989.svg" /> |
+
+</p>
 </details>
    <details>
  <summary>📈 <b>My Contribution Graph</b></summary>
  <br />
  <p align="center">
-  <a href="https://wakatime.com/@ddmasterdon">
+<!--   <a href="https://wakatime.com/@ddmasterdon">
    <img width="" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10"/>
-  </a>
+  </a> -->
  </p>
 </details>
   
