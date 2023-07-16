@@ -123,11 +123,11 @@
     </thead>
   <tbody>
   <tr>
-    <td  align="center" width="50%"><img alt="github Stats" height="100%" width="100%" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" /></td>
+    <td  align="center" width="50%"><img alt="github Stats" height="50%" width="75%" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt&hide_rank=true" /></td>
    <td align="center" width="50%"><img alt="github lang" height="50%" width="75%" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" /></td>
   </tr>
   <tr>
-      <td align="center" colspan="2"><img alt="contrib graph" height="50%" width="100%" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10" /></td>
+      <td align="center" colspan="2"><img alt="contrib graph" height="50%" width="80%" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10" /></td>
    </tr> 
   </tbody>
 </table>
