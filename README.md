@@ -108,10 +108,29 @@
 <img align="right" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" />
   </a>
  </p> -->
-
-|                                                         📃                                                                                              |                                                                       🖋️                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img alt="Stats" height="200px" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" /> | <img height="200px" alt="languages" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" /> |
+<!--
+| 📃 | 🖋️ |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt) | ![Languages](https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php) |
+| ![Contribution Graph](https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10) | |
+-->
+<table>
+  <thead>
+        <tr>
+            <th>📈</th>
+            <th>🖋</th>
+        </tr>
+    </thead>
+  <tbody>
+  <tr>
+    <td  align="center" width="50%"><img alt="github Stats" height="100%" width="100%" src="https://github-readme-stats-ddmasterdon.vercel.app/api?username=debasish-dutta&count_private=true&show_icons=true&theme=cobalt" /></td>
+   <td align="center" width="50%"><img alt="github lang" height="50%" width="75%" src="https://github-readme-stats-ddmasterdon.vercel.app/api/top-langs/?username=debasish-dutta&theme=aura&layout=compact&hide=php" /></td>
+  </tr>
+  <tr>
+      <td align="center" colspan="2"><img alt="contrib graph" height="50%" width="100%" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10" /></td>
+   </tr> 
+  </tbody>
+</table>
 
 </p>
   </details>
@@ -123,7 +142,7 @@
  </p>
 </details>
   <details>
- <summary>⏳ <b>My Wakatime  <a href="https://wakatime.com/@ddmasterdon">Stats</a> </b></summary>
+ <summary>⏳ <b>My <a href="https://wakatime.com/@ddmasterdon">Wakatime  Stats</a> </b></summary>
  <br />
 <p align="center">
 <!---
@@ -144,31 +163,38 @@
 <table>
     <thead>
         <tr>
-            <th>📈</th>
-            <th>🖋</th>
+             <th>📈 Languages over Past Year</th>
+            <th>🖋 Languages over Past Month</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td ><img alt="Wakatime Stats" height="100%" width="100%" src="https://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time" /></td>
-            <td ><img alt="wt editors" height="100%" width="100%" src="https://wakatime.com/share/@ddmasterdon/5b28b5ee-03ea-4f20-93fc-b3d4881e4989.svg" /></td>
+            <td width="50%"><img alt="Wakatime yearly Stats" width="100%" src="https://github-readme-stats-ddmasterdon.vercel.app/api/wakatime?username=ddmasterdon&layout=compact&theme=dracula&range=all_time&hide_title=true" /></td>
+          <td width="50%"> <img alt="Wakatime Monthly Stats"  width="100%" src="https://wakatime.com/share/@ddmasterdon/acb68d36-f856-4713-9989-a77fb78daaa1.svg" /></td>
         </tr>
       <tr>
-        <td align="center">Weekly</td>
-        <td align="center">Hourly</td>
+        <td align="center">Editors used over the past year</td>
+        <td align="center">Coding Activity over Past Year</td>
       </tr>
       <tr>
-        <td width="50%"><img height="100%" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10"/></td>
-        <td width="50%"><img height="100%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /> </td>
+       <td width="30%" align="center"><img alt="wt editors" height="50%" width="100%" src="https://wakatime.com/share/@ddmasterdon/5b28b5ee-03ea-4f20-93fc-b3d4881e4989.svg" /></td>
+        <td width="70%"> <img height="100%" width="100%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /> </td>
       </tr>
+<!--       <tr>
+       <th>📈 Coding Activity over Past Year</th>
+            <th>🖋 Coding Activity over Past Month</th>
+      </tr>
+      <tr>
+      <td ><img height="100%" width="100%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /></td>
+      <td width="50%"><img height="100%" width="100%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /></td>
+  </tr> -->
     </tbody>
 </table>
------------------------------------------------------------------------------------------------
-<table>
+<!-- <table>
   <thead>
         <tr>
-            <th>📈</th>
-            <th>🖋</th>
+            <th>📈 Languages over Past Year</th>
+            <th>🖋 Languages over Past Month</th>
         </tr>
     </thead>
   <tbody>
@@ -195,7 +221,7 @@
     <td colspan="2"><img height="100%" width="100%" alt="wt graph" src="https://wakatime.com/share/@ddmasterdon/2c3ae9b2-1aa6-4209-9bbf-8e178304ba01.svg" /></td>
   </tr>
   </tbody>
-</table>
+</table> -->
 
 
 </p>
@@ -207,8 +233,12 @@
 <!--    <a href="https://wakatime.com/@ddmasterdon">
    <img width="" src="https://github-readme-activity-graph-virid.vercel.app/graph?username=debasish-dutta&custom_title=My%20Contribution%20Graph%&theme=tokyo-night&hide_border=true&radius=10"/>
   </a> -->
-   - Inspired by [John Doe's Profile](https://github.com/johndoe)
-  - Help and guidance from [Jane Smith](https://github.com/janesmith)
+
+Comming Soon!!
+<!--
+- Inspired by [John Doe's Profile](https://github.com/johndoe)
+- Help and guidance from [Jane Smith](https://github.com/janesmith)
+ -->
  </p>
 </details>
   
