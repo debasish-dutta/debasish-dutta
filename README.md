@@ -13,14 +13,14 @@
 <!-- <iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p> -->
 
 ### _🕵️‍♂️ More About Me_
-- 🔭 I’m currently working on building a compiler in C/C++.
-- ⚡ I'm currently looking to go into Computer Science Research. 
-- 🦖 I'm also adept in Scripting as well as Embedded Systems and Machine Learning.
-- 🌱 I’m currently learning Intermediate DSA.
-- 🥅 2023 Goals: Build and Contribute more Open Source Projects.
-- 👯 I’m looking to collaborate on any Python or C++ projects.
-<!---- 🤔 I’m looking for help with ...
-<!---- 💬 Ask me about ...
+- 🔭 I’m currently working on Image Enhancement using .
+- ⚡ I'm currently looking into Advanced Deep Learning Methods. 
+- 🦖 I'm also adept in Scripting as well as Embedded Systems and Machine Learning- Deep Learning.
+- 🌱 I’m also currently learning NLP and RL.
+- 🥅 2024 Goals: Build and Contribute more Open Source Projects and Datasets.
+- 👯 I’m looking to collaborate on any Python or Data Science projects.
+<!---- 🤔 I’m looking for help with ...--->
+- 💬 Ask me about Machine Learning on Computer Vision.
 <!---- 📫 How to reach me: ...
 <!---- 😄 Pronouns: ...
 <!---- ⚡ Fun fact: ... --->
@@ -31,7 +31,7 @@
 
 [<img align="left" alt="ddmasterdon | Website" width="22px" src="https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-512.png" />][website]
 <a href="mailto:ddmasterdon@gmail.com"> <img align="left" alt="ddmasterdon | Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"/></a>
-[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" target="_blank"/>][twitter] 
+[<img align="left" alt="ddmasterdon | Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png" target="_blank"/>][twitter] 
 <!-- ![Twitter](https://img.shields.io/twitter/follow/ddmasterdon?label=Follow&style=social) --->
 [<img align="left" alt="ddmasterdon | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" target="_blank"/>][linkedin]
 <!-- [<img align="left" alt="ddmasterdon | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" target="_blank"/>][instagram] --->
