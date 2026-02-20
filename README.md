@@ -4,6 +4,9 @@
 
 ## _I'm Debasish - aka ddmasterdon_
 
+#### PhD Research Scholar | Deep Learning for Scientific Imaging | Microscopy Super-Resolution  
+
+---
 
 <p> 
   <img align="" alt="Profile summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasish-dutta&theme=blueberry" />
@@ -12,18 +15,47 @@
 
 <!-- <iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p> -->
 
-### _🕵️‍♂️ More About Me_
-- 🔭 I’m currently working on Image Enhancement using .
-- ⚡ I'm currently looking into Advanced Deep Learning Methods. 
-- 🦖 I'm also adept in Scripting as well as Embedded Systems and Machine Learning- Deep Learning.
-- 🌱 I’m also currently learning NLP and RL.
-- 🥅 2024 Goals: Build and Contribute more Open Source Projects and Datasets.
-- 👯 I’m looking to collaborate on any Python or Data Science projects.
-<!---- 🤔 I’m looking for help with ...--->
-- 💬 Ask me about Machine Learning on Computer Vision.
-<!---- 📫 How to reach me: ...
-<!---- 😄 Pronouns: ...
-<!---- ⚡ Fun fact: ... --->
+- 🔭 I’m currently working on **Microscopy Image Enhancement**, focusing on  
+  Super-Resolution, Denoising, Deconvolution, and Physics-aware Deep Learning.
+
+- 🧩 My research explores **Transformer-based models, Diffusion models, and State Space architectures** for improving microscopic image quality across diverse modalities (e.g., SIM, SMLM).
+
+- 🧪 I work at the intersection of:
+  - Computational Imaging  
+  - Deep Learning for Inverse Problems  
+  - Scientific ML & Image Analysis  
+
+- 🧠 Strong foundation in algorithms, compiler design, and systems — bringing a structured, low-level understanding to high-level DL models.
+
+- 🌱 Currently expanding into:
+  - Diffusion-based generative models  
+  - Efficient long-range architectures (e.g., Mamba / SSMs)  
+  - Spatiotemporal modeling  
+  - NLP & Reinforcement Learning (for broader ML depth)
+
+- 🧬 I enjoy working on diverse DL domains including:
+  - Medical image segmentation  
+  - Hyperspectral change detection  
+  - Precipitation forecasting  
+  - Machine translation  
+  - Image captioning  
+
+- 🥅 Ongoing Goals:
+  - Develop novel, robust microscopy SR frameworks
+  - Contribute open-source scientific datasets and research code
+  - Publish in top-tier journals & conferences
+
+- 👯 Open to collaborating on:
+  - Computer Vision  
+  - Scientific Image Analysis  
+  - Generative Models  
+  - Applied ML research projects  
+
+- 💬 Ask me about:
+  - Super-Resolution in Microscopy  
+  - Deep Learning for Inverse Problems  
+  - Transformers vs Diffusion vs State Space Models  
+  - Algorithmic thinking in DL systems  
 
 ---
 
@@ -42,6 +74,7 @@
 <br />
 <br />
 
+<!--
 ### ⚔️ My Coding Profiles:
 
 [<img align="left" alt="ddmasterdon | Kaggle" width="63px" src="https://www.kaggle.com/static/images/site-logo.svg" target="_blank" />][kaggle]
@@ -54,7 +87,7 @@
 <br />
 <br />
 <br />
-
+-->
 ---
 
 ### 🧮 Languages:
@@ -71,6 +104,7 @@
 <img align="left" alt="macOs" width="40px" src="assets/icons/m1Mac.png" />
 <img align="left" alt="linux" width="30px" src="assets/icons/Tux.png" />
 <img align="left" alt="Pi" padding-right="40px" width="40px" src="assets/icons/RPi.png" />
+<img align="left" alt="jetson" padding-right="40px" width="40px" src="assets/icons/jetson.png" />
 <img align="left" alt="xCode" width="40px" src="assets/icons/xcode.png" />
 <img align="left" alt="nVim" width="40px" src="assets/icons/nvim.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="assets/icons/vsc.png" />
@@ -86,7 +120,7 @@
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-![My Tools](https://skillicons.dev/icons?i=git,vim,bash,cmake,md,bots,html,css,latex,nextjs,graphql,tailwind,mongodb,flask,gatsby,postgres,tensorflow,pytorch,ps,arduino&perline=10)
+![My Tools](https://skillicons.dev/icons?i=cpp,py,gcp,git,vim,bash,cmake,md,bots,obsidian,kafka,latex,tensorflow,pytorch,ps,arduino&perline=8)
 <br />
 
 ---
