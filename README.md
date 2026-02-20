@@ -20,10 +20,7 @@
 
 - 🧩 My research explores **Transformer-based models, Diffusion models, and State Space architectures** for improving microscopic image quality across diverse modalities (e.g., SIM, SMLM).
 
-- 🧪 I work at the intersection of:
-  - Computational Imaging  
-  - Deep Learning for Inverse Problems  
-  - Scientific ML & Image Analysis  
+- 🧪 I work at the intersection of Computational Imaging, Deep Learning for Inverse Problems, Scientific ML & Image Analysis  
 
 - 🧠 Strong foundation in algorithms, compiler design, and systems — bringing a structured, low-level understanding to high-level DL models.
 
@@ -31,19 +28,7 @@
   - Diffusion-based generative models  
   - Efficient long-range architectures (e.g., Mamba / SSMs)  
   - Spatiotemporal modeling  
-  - NLP & Reinforcement Learning (for broader ML depth)
-
-- 🧬 I enjoy working on diverse DL domains including:
-  - Medical image segmentation  
-  - Hyperspectral change detection  
-  - Precipitation forecasting  
-  - Machine translation  
-  - Image captioning  
-
-- 🥅 Ongoing Goals:
-  - Develop novel, robust microscopy SR frameworks
-  - Contribute open-source scientific datasets and research code
-  - Publish in top-tier journals & conferences
+  - NLP & Reinforcement Learning (for broader ML depth) 
 
 - 👯 Open to collaborating on:
   - Computer Vision  
@@ -56,7 +41,6 @@
   - Deep Learning for Inverse Problems  
   - Transformers vs Diffusion vs State Space Models  
   - Algorithmic thinking in DL systems  
-
 ---
 
 ### 🫰🏻 Connect with me: 
@@ -74,6 +58,8 @@
 <br />
 <br />
 
+> Building models is easy.  
+> Understanding their assumptions, limitations, and inductive biases — that’s where the real work begins.
 <!--
 ### ⚔️ My Coding Profiles:
 
